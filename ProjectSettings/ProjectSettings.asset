@@ -587,6 +587,7 @@ PlayerSettings:
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 1
+  assemblyVersionValidation: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
@@ -635,6 +636,7 @@ PlayerSettings:
   XboxOneCapability: []
   XboxOneGameRating: {}
   XboxOneIsContentPackage: 0
+  XboxOneEnhancedXboxCompatibilityMode: 0
   XboxOneEnableGPUVariability: 1
   XboxOneSockets: {}
   XboxOneSplashScreen: {fileID: 0}
@@ -647,7 +649,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 1
     Build: 0
-    Collab: 1
+    Collab: 0
     Game Performance: 0
     Purchasing: 0
     UDP: 0
@@ -666,11 +668,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: ce368419-4cc8-46c3-a147-53070991bafa
+  cloudProjectId: 6d185423-cfa7-4083-a1e4-cce0b37314bb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: COMP397-W2021-Lesson4a
-  organizationId: centennial-college
+  organizationId: nanbaejjae
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
